@@ -1,0 +1,23 @@
+
+
+     *****************************************************************************
+     ***         MC-GPU, version 1.3 (http://code.google.com/p/mcgpu/)         ***
+     ***                                                                       ***
+     ***  A. Badal and A. Badano, "Accelerating Monte Carlo simulations of     *** 
+     ***  photon transport in a voxelized geometry using a massively parallel  *** 
+     ***  Graphics Processing Unit", Medical Physics 36, pp. 4878–4880 (2009)  ***
+     ***                                                                       ***
+     ***                     Andreu Badal (Andreu.Badal-Soler@fda.hhs.gov)     ***
+     *****************************************************************************
+
+****** Code execution started on: Sun Sep  6 14:29:24 2015
+
+
+
+             *** SIMULATION IN THE CPU ***
+
+    -- INITIALIZATION phase:
+
+
+   !!read_input ERROR!! Input file not found or not readable. Input file name: 'MC-GPU_v1.3.in'
+
